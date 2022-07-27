@@ -1,11 +1,3 @@
-
-##Here's the link:
-https://dom-piggame.netlify.app/
-
-
-
-
-
 <div id="top"></div>
 
 <!-- TABLE OF CONTENTS -->
@@ -29,7 +21,9 @@ https://dom-piggame.netlify.app/
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-# Simple 2 players game with dices
+### Simple 2 players game with dices
+
+#### https://dom-piggame.netlify.app/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

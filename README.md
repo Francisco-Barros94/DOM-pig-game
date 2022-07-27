@@ -19,16 +19,12 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 2 players game with dices
 
-### Simple 2 players game with dices
+[![Pig Game][product-screenshot]]([[https://example.com](https://dom-piggame.netlify.app/)](https://dom-piggame.netlify.app/))
 
-#### https://dom-piggame.netlify.app/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 
 
 

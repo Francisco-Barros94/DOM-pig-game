@@ -53,10 +53,8 @@ Here's the link: https://dom-piggame.netlify.app/
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- CONTACT -->
-## Contact
-
-Francisco Barros - francisco.barros1994@gmail.com
+<!-- LINKS -->
+## LINKS
 
 Project Link: [https://github.com/Francisco-Barros94/Game-pig](https://github.com/Francisco-Barros94/Game-pig)
 

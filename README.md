@@ -54,7 +54,7 @@ Here's the link: https://dom-piggame.netlify.app/
 
 
 <!-- LINKS -->
-## LINKS
+## Links
 
 Project Link: [https://github.com/Francisco-Barros94/Game-pig](https://github.com/Francisco-Barros94/Game-pig)
 

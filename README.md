@@ -10,7 +10,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -25,9 +24,7 @@ Here's the link: https://dom-piggame.netlify.app/
 
 <p align="center"><a href="https://ibb.co/Ycfwr3P"><img src="https://i.ibb.co/VgM5KtJ/pig.jpg" alt="pig" border="0"></a>
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -44,17 +41,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->

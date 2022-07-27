@@ -19,9 +19,11 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## 2 players game with dices
+## Simple game for 2 players (dices), called Pig Game
 
-[![Pig Game][product-screenshot]]([[https://example.com](https://dom-piggame.netlify.app/)](https://dom-piggame.netlify.app/))
+Here's the link: https://dom-piggame.netlify.app/
+
+<p align="center"><a href="https://ibb.co/Ycfwr3P"><img src="https://i.ibb.co/VgM5KtJ/pig.jpg" alt="pig" border="0"></a>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -58,15 +60,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+- [ ] Add rules/wiki
+- [ ] Add different background
+- [ ] Add better UI
+- [ ] Other
+    - [ ] Other
+    - [ ] Other
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -76,7 +75,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 Francisco Barros - francisco.barros1994@gmail.com
 
-Project Link: [https://github.com/Francisco-Barros94/repo_name](https://github.com/Francisco-Barros94/repo_name)
+Project Link: [https://github.com/Francisco-Barros94/Game-pig](https://github.com/Francisco-Barros94/Game-pig)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

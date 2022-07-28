@@ -21,6 +21,13 @@
 
 Here's the link: https://dom-piggame.netlify.app/
 
+GAME RULES:
+- The game has 2 players, playing in rounds
+- In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
+- BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
+- The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
+- The first player to reach 100 points on GLOBAL score wins the game
+
 <p align="center"><a href="https://ibb.co/Ycfwr3P"><img src="https://i.ibb.co/VgM5KtJ/pig.jpg" alt="pig" border="0"></a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -28,14 +35,9 @@ Here's the link: https://dom-piggame.netlify.app/
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
